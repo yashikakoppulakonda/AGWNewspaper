@@ -23,7 +23,7 @@
     }
 
     #head {
-      font-size: 40px;
+      font-size: 45px;
     }
 
     .logo{
@@ -92,7 +92,7 @@
 
     @media (max-width: 600px) {
   #head {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
   }
 
   .logo {
