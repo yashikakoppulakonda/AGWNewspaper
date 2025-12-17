@@ -23,7 +23,7 @@
     }
 
     #head {
-      font-size: 45px;
+      font-size: 35px;
     }
 
     .logo{
@@ -43,7 +43,7 @@
 
     nav ul li {
       cursor: pointer;
-      font-size: 25px;
+      font-size: 18px;
       transition: color 0.3s;
     }
 
@@ -92,7 +92,7 @@
 
     @media (max-width: 600px) {
   #head {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
   }
 
   .logo {
