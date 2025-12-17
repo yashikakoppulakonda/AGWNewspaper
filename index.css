@@ -73,16 +73,19 @@
     }
 
 
-    #imgDiv{
-        width: 100%;
-        height: 90%;
-    
-    }
+    #imgDiv {
+  width: 100%;
+  height: auto;
+}
 
-    #imgDiv img{
-        height: 100%;
-          width: 80%;
-    }
+#imgDiv img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
 
 
 
